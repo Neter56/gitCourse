@@ -1,0 +1,37 @@
+Windows 10 Professional RTM Retail  2TJWG-7NDMY-2P6GB-QXFD7-T3BP6 X19-98841 2015/09/28 11:36 AM Labs client machines (5) N 
+-- SAGIE-HOME (28/09/2015)
+
+Windows 10 Professional RTM Retail  QB3PX-MNBJF-92C9Y-6228D-KKXTT X19-98841 2015/09/28 11:36 AM Labs client machines (5) N 
+-- Yaron Lorber but fail as "other device already using this...". On him Win7 upgrade attempt.
+
+Windows 10 Professional RTM Retail  NMBMX-HHKD3-GBKVW-FJ623-YBH26 X19-98841 2015/09/28 11:36 AM Labs client machines (5) N 
+-- Yaron Lorber 
+
+Windows 10 Professional RTM Retail  NHV94-YM4GG-MRX8H-PJC2J-F3KTT X19-98841 2015/09/28 11:36 AM Labs client machines (5) N 
+? 
+
+15/04/2018:
+Windows 10 Professional RTM Retail  N6VCF-3YCTX-M6G8B-PRGXC-DDBP6 X19-98841 2015/09/28 11:36 AM Labs client machines (5) N
+-- New OptiPlex 9900 at home (no name yet)
+  
+
+PDNHM-64MFF-P7W46-F3W3C-JB49G Limor Srugo
+
+יניב ביטון 28/09/2019:
+NMBMX-HHKD3-GBKVW-FJ623-YBH26
+
+איה 18/10/2019: 
+NHV94-YM4GG-MRX8H-PJC2J-F3KTT
+
+
+N6VCF-3YCTX-M6G8B-PRGXC-DDBP6
+PDNHM-64MFF-P7W46-F3W3C-JB49G - Shahar-PC (הבן של סיגלית אברמוביץ')
+
+
+
+MSKeys:
+1046934	Windows Client	Win Pro	X19-98841	2017-08-27T07:36:53.647	Completed	
+GP7Y2-7N9J6-CKBBW-K8DKJ-MTDGT
+QKPNP-CP3J4-HJGH7-79W3P-BTDGT
+PQ7NP-2MBFB-8YCTP-3BFJ9-TF4C6
+VNCR2-M9TK8-HVY3W-GCHVX-3RR9G - Ezra-PC 27/03/2020
